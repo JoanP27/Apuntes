@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+}
+header{
+    margin: 0px;
+}
+
+header nav{
+    align-items: center;
+    background-color: antiquewhite;
+    display: inline-flex;
+    width: 100%;
+    padding: 0px 10px 0px 10px;
+}
+header nav ul{
+    width: 90%;
+    list-style: none;
+    display: inline-flex;
+    margin: 0px 10px 0px 10px;
+    padding: 0px;
+}
+
+header nav ul li{
+    padding: 15px 10px 15px 10px;
+}
+header nav ul li:hover{
+    background-color: azure;
+}
+header nav img{
+    width: 5%;
+}
+.theme-toggle{
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+    width: 5%;
+
+}
+.theme-toggle img{
+    width: 30px;
+    padding: 10px;
+    margin: 0px;
+}
+.theme-toggle :hover{
+    background-color: aliceblue;
+    border-radius: 20px;
+}
