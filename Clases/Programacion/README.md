@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="../../styles/estilos.css">
+<link rel="stylesheet" type="text/css" href="../../styles/general.css">
 
 
 # Programacion
