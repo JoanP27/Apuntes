@@ -1,3 +1,11 @@
+<head>
+  <style>
+    .test{
+      padding: 10px;
+      background-color: yellow;
+    }
+  </style>
+</head>
 # Programacion
 
 ### C#
@@ -9,4 +17,5 @@ Sirve para no tener que escribir la libreria system de nuevo
 ```C#
 using system;
 ```
-<a class=""></a>
+
+<a class="test"></a>
