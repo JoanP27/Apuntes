@@ -1,4 +1,5 @@
-<head>
+<body>
+  <head>
   <style>
     .test{
       padding: 10px;
@@ -6,6 +7,8 @@
     }
   </style>
 </head>
+</body>
+
 # Programacion
 
 ### C#
