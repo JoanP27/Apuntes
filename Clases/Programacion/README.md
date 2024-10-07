@@ -1,13 +1,5 @@
-<body>
-  <head>
-  <style>
-    .test{
-      padding: 10px;
-      background-color: yellow;
-    }
-  </style>
-</head>
-</body>
+<link rel="stylesheet" type="text/css" href="../../styles/estilos.css">
+
 
 # Programacion
 
@@ -21,4 +13,4 @@ Sirve para no tener que escribir la libreria system de nuevo
 using system;
 ```
 
-<a class="test"></a>
+<a></a>
