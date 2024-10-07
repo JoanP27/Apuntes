@@ -27,7 +27,7 @@ false
 # Expresiones
 
 
-## Using System
+### Using System
 
 sirve para no tener que volver a usar el Termino ```System``` en el codigo de nuevo, asi a la hora de escribir codigo nos ahorramos
 
@@ -55,7 +55,7 @@ Class Test
 }
 ```
 
-## Read Line
+### Read Line
 
 sirve para no tener que volver a usar el Termino ```System``` en el codigo de nuevo, asi a la hora de escribir codigo nos ahorramos
 
@@ -73,7 +73,7 @@ Class Test
 <br>
 
 # Condiciones
-## Operador ternario
+### Operador ternario
 
 funciona como un condicional de una sola linea, si la condicion da ``true`` se asignara la primera opcion, si da ``false`` se asignara la segunda opcion a la variable num1
 
@@ -81,7 +81,7 @@ funciona como un condicional de una sola linea, si la condicion da ``true`` se a
 num1 = condicion ? true : false
 ```
 
-## Switch
+### Switch
 
 se usan varias opciones, siempre se debe poner un ``break`` para finalizar la expresion en cada una de las opciones, o ``goto`` para cambiar a otra opcion del ``case``
 
