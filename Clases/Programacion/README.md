@@ -32,6 +32,19 @@ false
 sirve para no tener que volver a usar el Termino ```System``` en el codigo de nuevo, asi a la hora de escribir codigo nos ahorramos
 
 ```C#
+// sin usar system
+using system;
+Class Test
+{
+    static void Main()
+    {
+        System.Console.WriteLine("Hello World")
+    }
+}
+```
+
+```C#
+// usando system
 using system;
 Class Test
 {
