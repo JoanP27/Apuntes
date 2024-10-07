@@ -44,3 +44,33 @@ header nav img{
     background-color: aliceblue;
     border-radius: 20px;
 }
+
+section.temas{
+    margin: 100px 10px 10px 10px;
+    display: flex;
+}
+
+section a.tema{
+    background-color: rgb(241, 233, 233);
+    padding: 20px 50px 20px 50px;
+    border-radius: 15px;
+    border: 3px solid rgb(14, 8, 51);
+    margin: 10px 10px 10px 10px;
+    text-decoration: none;
+    color: black;
+}
+section a.tema:nth-child(1){
+    background-color: rgb(175, 255, 255);
+}
+section a.tema:nth-child(2){
+    background-color: rgb(175, 255, 224);
+}
+section a.tema:nth-child(3){
+    background-color: rgb(214, 255, 175);
+}
+section a.tema:nth-child(4){
+    background-color: rgb(250, 255, 175);
+}
+section a.tema:nth-child(5){
+    background-color: rgb(255, 207, 175);
+}
